@@ -1,4 +1,4 @@
-This is a program that guides you through playing piano pieces.
+This is a beta version program that guides you through playing piano pieces.
 After reading a MIDI file, it displays the piano keys you need to play.
 Keys for the left hand are shown in green, and keys for the right hand are shown in red.
 When the program runs, it displays the full keyboard.
@@ -14,4 +14,6 @@ this guide programe
 ****full_piano_keyboard_teacher_no_sound.py does not produce any sound when running.****
 If you need to hear the audio, you can open another program
 *full_piano_keyboard_player_with_sound.py*
+****You need to modify font_path = r"C:\xxxxxxxxxxxxxxxxxxx.ttf" and self.save_path = r"D:\xxxxxxxxxxxxx.png" in the program,
+replacing them with your own information, before you can run the code.****
 AI assistance was used in writing this program.
